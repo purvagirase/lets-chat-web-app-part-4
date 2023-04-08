@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+
+#addRoom{
+    border-color: black;
+    background-color: blue;
+    color: white;
+    border-width: 2;
+}
+
+#log_out{
+    background-color: red;
+    color: white;
+    border-width: 2;
+}
